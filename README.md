@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nwygit&label=Profile%20views&color=0e75b6&style=flat" alt="nwygit" /> </p>
 
-- 🔭 I’m currently working on [AWS SSA, U of Helsinki full-stack course](https://github.com/nwyGit/FullStack-UofHelsinki)
+- 🔭 I’m currently working on: [U of Helsinki full-stack course](https://github.com/nwyGit/FullStack-UofHelsinki)
 
-- 🌱 I’m currently learning **Java, AWS, Data Science**
+- 🌱 I’m currently learning: **Java, AWS, Data Science**
 
-- 👨‍💻 All of my projects are available at [raymond-ng.com](raymond-ng.com)
+- 👨‍💻 All of my projects are available at: [raymond-ng.com](https://raymond-ng.com)
 
-- 📫 How to reach me **nwyraymond@gmail.com**
+- 📫 How to reach me: **nwyraymond@gmail.com**
 
-- 📄 Know about my experiences [https://www.raymond-ng.com/resume.pdf](https://www.raymond-ng.com/resume.pdf)
+- 📄 Know about my experiences: [https://www.raymond-ng.com/resume.pdf](https://www.raymond-ng.com/resume.pdf)
 
-- ⚡ Fun fact **When I'm not coding or analyzing data, I enjoy tending to my garden, curling up with a good book, and, surprisingly, appreciating the fascinating world of reptiles! Oh, and of course, indulging in some delicious food. 🌱📚🐍🍽️**
+- ⚡ Fun fact: **When I'm not coding or analyzing data, I enjoy tending to my garden, curling up with a good book, and, surprisingly, appreciating the fascinating world of reptiles! Oh, and of course, indulging in some delicious food. 🌱📚🐍🍽️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
