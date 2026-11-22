@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nwygit&label=Profile%20views&color=0e75b6&style=flat" alt="nwygit" /> </p>
 
-- 🔭 I’m currently working on: [U of Helsinki full-stack course](https://github.com/nwyGit/FullStack-UofHelsinki)
+- 🔭 I’m currently working on: the profile site at [raymond-ng.com](https://raymond-ng.com) and Prognolytics in [portfolio-projects](https://github.com/nwyGit/portfolio-projects)
 
-- 🌱 I’m currently learning: **Java, AWS, Data Science**
+- 🌱 I work with **Java, AWS, and Data Science**
 
 - 👨‍💻 All of my projects are available at: [raymond-ng.com](https://raymond-ng.com)
 
